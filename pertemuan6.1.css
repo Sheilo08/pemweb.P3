@@ -1,0 +1,14 @@
+.satu {
+    text-align: center;
+    margin: 0 auto;
+    width: 1200px;
+    height: 70px;
+    background-color: rgb(162, 82, 223);
+    padding: 20px;
+    border : 5px solid rgb(110, 29, 171);
+    border-radius: 5px 50px;
+}
+.dua {
+    background-color: rgb(89, 239, 176);
+}
+img {float: left;}
